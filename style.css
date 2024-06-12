@@ -1,0 +1,146 @@
+*{
+margin: 0px;
+font-family: 'inter';
+}
+
+#titulo-menusuperior{
+margin-top: 0px;
+margin-left: 62px;
+padding-top: 206px;
+color: #ffffff;
+font-size: 60px;
+}
+
+#texto-menusuperior{
+color: #ffffff;
+margin-top: 28px;
+margin-left: 62px;
+padding-bottom: 100px;
+font-size: 20px;
+}
+
+#menusuperior{
+background-color: #303030;
+}
+
+#menuinformacional{
+background-color: #F9F9F9;
+display: grid;
+grid-auto-flow: column;
+columns: auto;
+}
+
+#numero850{
+font-size:40px;
+color: #000000;
+width: 292px;
+height: 67px;
+margin-left: 250px;
+font-weight: 600;
+margin-top: 80px;
+line-height: 30px;
+}
+
+#span850{
+font-size: 20px;
+font-weight: 400;
+}
+
+#numero40{
+font-size:40px;
+color: #000000;
+width: 292px;
+height: 67px;
+font-weight: 600;
+margin-top: 80px;
+line-height: 30px;
+}
+
+#span40{
+font-size: 19px;
+font-weight: 400;
+}
+
+#numero20{
+font-size:40px;
+color: #000000;
+width: 292px;
+height: 67px;
+font-weight: 600;
+margin-top: 80px;
+line-height: 30px;
+}
+
+#span20{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#imagem{
+    margin-top: 200px;
+    margin-left: 1300px;
+}
+
+#titulo-imagem{
+    font-weight: 500;
+    font-size: 60px;
+    margin-left: 55px;
+    margin-top: -440px;
+}
+
+#texto-imagem{
+    font-weight: 300;
+    font-size: 34px;
+    margin-left: 60px;
+    margin-top: 30px;
+    padding-bottom: 250px;
+}
+
+#formulario{
+color: #ffffff;
+background-color: #303030;
+text-align: center;
+}
+
+#titulo-formulario{
+font-size: 35x;
+padding-top: 75px;
+color: #ffffff;
+}
+
+input{
+width: 508px;
+height: 72px;
+margin-top: 55px;
+background-color: #ffffff;
+border: 0px;
+border-radius: 10px;
+padding-left: 10px;
+font-size: 24px;
+
+}
+button{
+    background-color: #C07212;
+    width: 286px;
+    height: 72px;
+    border-radius: 10px;
+    margin-top: 55px;
+    font-size: 30px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 100px;
+    border: 0px;
+    cursor: pointer;
+
+}
+
+button:hover{
+    background-color: #b36d17;
+    color: #ffffff;
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #2c1b07; 
+    transition-duration: 0.5s;
+}
+
+
+
